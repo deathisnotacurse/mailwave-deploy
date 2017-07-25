@@ -1,3 +1,3 @@
 # mailwave-deploy
 
-hello q2
+hello q
